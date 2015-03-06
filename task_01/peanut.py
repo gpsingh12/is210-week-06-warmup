@@ -5,4 +5,3 @@
 
 BUTTER = 'I am truthy'
 OIL = 'I am falsy'
-
